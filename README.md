@@ -6,7 +6,7 @@ https://factorialcomplexity.slite.page/p/GSJlbvdK8KoDIg/Test-Task-for-Android-De
 > [Завантажити apk](https://github.com/nexy791/TestTaskForFactorialComplexity/raw/master/app-debug.apk)
 > <br><br>
 > Android Studio Hedgehog | 2023.1.1<br>
-> AGP 8.2.0 / Gradle 9.2 / JDK 17
+> AGP 8.2.0 / Gradle 8.2 / JDK 17 / Kotlin 1.8.0
 ---
 ## Відео роботи
 https://github.com/nexy791/TestTaskForFactorialComplexity/assets/34474854/80f000bc-1b25-42e9-83e8-a0d79aed5f81
