@@ -12,7 +12,7 @@ https://github.com/nexy791/TestTaskForFactorialComplexity/assets/34474854/80f000
 - Kotlin, Retrofit, Moshi, Coil, Coroutines, LiveData, Koin
 
 ## Опис архітектури
-> MVVM Clean MultiModule без розбівки на фічі
+> MVVM Clean MultiModule без розбівки на фічі <br>
 > Структура залежностей: Activity/Fragment -> ViewModel -> UseCase -> Repo -> DataSource -> Service
 
 - :domain
