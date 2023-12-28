@@ -20,7 +20,7 @@ https://github.com/nexy791/TestTaskForFactorialComplexity/assets/34474854/80f000
 - :data
 > Repo Impl, Services
 - :app
-> UI, DI, Nav (тому що проєкт невеликий, обрав такий підхід)
+> UI, DI, Nav (оскільки проєкт невеликий, обрав такий підхід)
 - :commmon
 > Всі ext та base
 
